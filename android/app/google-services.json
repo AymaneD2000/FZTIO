@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72211425276",
+    "project_id": "fztio-f56a4",
+    "storage_bucket": "fztio-f56a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72211425276:android:167dc2f2d8da50eb373479",
+        "android_client_info": {
+          "package_name": "com.example.fzt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKhrAzO9ElluZM5JF_iCqKfduHG3ctRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
